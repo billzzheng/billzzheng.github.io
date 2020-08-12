@@ -1,2 +1,2 @@
 # pyrexshorts.github.io
-My simple personal website.
+My personal website.
