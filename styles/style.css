@@ -101,7 +101,7 @@ img[alt="Android Screenshot"]{
 #card_box{
   font-family: calibri;
   box-sizing: border-box;
-  justify-content: center;
+  justify-content: left;
   display: flex;
   flex-wrap: wrap;
 }
