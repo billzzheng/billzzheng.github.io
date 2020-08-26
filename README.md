@@ -1,2 +1,2 @@
-# pyrexshorts.github.io
+# billzzzz.github.io
 My personal website.
